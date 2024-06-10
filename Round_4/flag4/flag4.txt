@@ -1,0 +1,55 @@
+▀█▀ █░█ █▀▀   █▄▄ █░░ ▄▀█ █▀ ▀█▀  
+░█░ █▀█ ██▄   █▄█ █▄▄ █▀█ ▄█ ░█░  
+
+⠀⠀⠀⠀⠀⣀⣠⠤⠶⠶⣖⡛⠛⠿⠿⠯⠭⠍⠉⣉⠛⠚⠛⠲⣄⠀⠀⠀⠀⠀
+⠀⠀⢀⡴⠋⠁⠀⡉⠁⢐⣒⠒⠈⠁⠀⠀⠀⠈⠁⢂⢅⡂⠀⠀⠘⣧⠀⠀⠀⠀
+⠀⠀⣼⠀⠀⠀⠁⠀⠀⠀⠂⠀⠀⠀⠀⢀⣀⣤⣤⣄⡈⠈⠀⠀⠀⠘⣇⠀⠀⠀
+⢠⡾⠡⠄⠀⠀⠾⠿⠿⣷⣦⣤⠀⠀⣾⣋⡤⠿⠿⠿⠿⠆⠠⢀⣀⡒⠼⢷⣄⠀
+⣿⠊⠊⠶⠶⢦⣄⡄⠀⢀⣿⠀⠀⠀⠈⠁⠀⠀⠙⠳⠦⠶⠞⢋⣍⠉⢳⡄⠈⣧
+⢹⣆⡂⢀⣿⠀⠀⡀⢴⣟⠁⠀⢀⣠⣘⢳⡖⠀⠀⣀⣠⡴⠞⠋⣽⠷⢠⠇⠀⣼
+⠀⢻⡀⢸⣿⣷⢦⣄⣀⣈⣳⣆⣀⣀⣤⣭⣴⠚⠛⠉⣹⣧⡴⣾⠋⠀⠀⣘⡼⠃
+⠀⢸⡇⢸⣷⣿⣤⣏⣉⣙⣏⣉⣹⣁⣀⣠⣼⣶⡾⠟⢻⣇⡼⠁⠀⠀⣰⠋⠀⠀
+⠀⢸⡇⠸⣿⡿⣿⢿⡿⢿⣿⠿⠿⣿⠛⠉⠉⢧⠀⣠⡴⠋⠀⠀⠀⣠⠇⠀⠀⠀
+⠀⢸⠀⠀⠹⢯⣽⣆⣷⣀⣻⣀⣀⣿⣄⣤⣴⠾⢛⡉⢄⡢⢔⣠⠞⠁⠀⠀⠀⠀
+⠀⢸⠀⠀⠀⠢⣀⠀⠈⠉⠉⠉⠉⣉⣀⠠⣐⠦⠑⣊⡥⠞⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⡀⠀⠁⠂⠀⠀⠀⠀⠀⠀⠒⠈⠁⣀⡤⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠙⠶⢤⣤⣤⣤⣤⡤⠴⠖⠚⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+█▀▀ █▀█ ▄▀█ █▀▀ █▄▀   █ ▀█▀   █░░ █▀▀ ▄▀█ █▀█ █▄░█   █ ▀█▀
+█▄▄ █▀▄ █▀█ █▄▄ █░█   █ ░█░   █▄▄ ██▄ █▀█ █▀▄ █░▀█   █ ░█░
+
+
+37. (I) Display all of the last names in people.csv.
+
+38. (A) Count the number of unique last names in people.csv.
+
+39. (A) Did you accidentally count the CSV header in the previous challenge?
+
+40. (A) There's a second way to exclude the CSV header from your count. Find it.
+
+41. (A) Now that you've found two ways to correctly count the number of unique
+    last names in people.csv, can you prove whether or not one is more efficient
+    (faster) than the other?
+
+42. (A) Count the number of people with the first name "Josiah" in people.csv.
+
+43. (I) Count the number of files (not directories) in the "challenges" directory .
+
+44. (I) Count the number of subdirectories in the "challenges" directory.
+
+45. (I) Remove all files with "deleteme" in the name.
+
+46. (I) In challenge 28 you found a file. Replace the string "You found the
+    needle in the haystack!" with "The needle has been removed."
+
+47. (A) Transform people.csv from ',' delimited to '|' delimited and save the result in people_pipe.csv.
+
+48. (A) Find all of the files in "bunch_of_files/" that are duplicates of "file001.rand".
+
+
+█▀█ █░█ █▄░█   ▀█▀ █░█ █▀▀   █▄▄ █ █▄░█   █▀ █░█   █▀▀ █ █░░ █▀▀
+█▀▄ █▄█ █░▀█   ░█░ █▀█ ██▄   █▄█ █ █░▀█ . ▄█ █▀█   █▀░ █ █▄▄ ██▄
+
+
